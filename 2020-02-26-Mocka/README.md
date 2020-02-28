@@ -10,6 +10,8 @@ https://www.meetup.com/StL-Go/events/268159688/
 | | St. Louis, MO 63141 |
 | | :round_pushpin: 38.673912,-90.453064 |
 | **Presenter:** | Chris Marfia |
+| **Group Membership:** | 317 |
+| **Total RSVPs:** | 28 |
 | **Total Attendance:** | 15 |
 
 ## Presentation
