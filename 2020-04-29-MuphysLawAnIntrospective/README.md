@@ -22,6 +22,7 @@ We ended up having a general Q&A session with the panel (and by "panel", I reall
 * (12:45) General Overview of Concurrency: ["Green Threads"](https://c9x.me/articles/gthreads/intro.html), [Goroutines](https://www.golang-book.com/books/intro/10#section1), and [Channels](https://www.golang-book.com/books/intro/10#section2).
 ![](images/concurrency-wb.png)
 * (58:30) Generics in Go.  Considerations related to compile time vs. runtime.
+![](images/generics-wb.jpg)
 * (1:25:00) To Context or not to Context?
 * (1:30:30) Writing security-specific test cases.  The [Agile Application Security](http://shop.oreilly.com/product/0636920045106.do) book was recommended.
 
