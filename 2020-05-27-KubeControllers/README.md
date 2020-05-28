@@ -34,10 +34,9 @@ https://www.crowdcast.io/e/20200527-stlgomeetup
 ## Action Shots
 |  |  |
 | --- | --- |
+| ![](images/20200527-01.png) | ![](images/20200527-02.png) |
 | ![](images/20200527T185357.png) | ![](images/20200527T190239.png) |
 | ![](images/20200527T192018.png) | |
-
-Sadly I didn't think of getting any screen captures while Mitali was speaking...I'm so sorry. :disappointed: :man_facepalming:
 
 ## Giveaways
 Congratulations to our winners of these awesome t-shirts provided by [JFrog](https://jfrog.com/):
