@@ -1,5 +1,5 @@
-# Go: Mistakes were Made (but bot by me)
-
+# Go: Mistakes were Made (but not by me)
+https://www.meetup.com/StL-Go/events/272850932/
 
 ## Meta 
 | | |
