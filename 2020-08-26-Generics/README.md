@@ -32,7 +32,7 @@ https://www.crowdcast.io/e/20200826-stlgomeetup
 | ![](images/20200826-05.png) | ![](images/20200826-06.png) |
 
 ## Giveaways
-None sadly :(  Due to our session being cut short, we weren't able to provide the giveaway for 4 1-year licenses of GoLand.
+None sadly :cry: Due to our session being cut short, we weren't able to provide the giveaway for 4 1-year licenses of GoLand.
 
 ## Happenings
 This session was full of post-presentation discussion which caused us to hit our time-limit. The transition to an extended session didn't go so smoothly, but we quickly decided Zoom would make for easier group discussion, allowing everyone to ask questions audibly. 
