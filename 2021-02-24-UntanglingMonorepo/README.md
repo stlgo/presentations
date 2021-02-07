@@ -4,7 +4,7 @@ https://www.meetup.com/StL-Go/events/276220371/
 ## Meta 
 | | |
 | --- | --- |
-| **When:** | Wednesday, September 23, 2020 |
+| **When:** | Wednesday, February 24, 2021 |
 | **Where:** | VIRTUAL EVENT, Zoom/YouTube |
 | **Presenter:** | Anthony Lee |
 | | Dylan Bourque |
