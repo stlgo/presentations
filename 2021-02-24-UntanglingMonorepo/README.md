@@ -26,6 +26,10 @@ They will be sharing techniques to:
 ## Presenter
 Anthony Lee and Dylan Bourque
 
+## Resources
+[Meeting Intro](Meeting\ Intro.pdf)
+[Speaker Slides](Gophercon\ 2020.pdf)
+
 ## What's Paul Drinking?
 *Lone Star Beer* from [Lone Star Brewing Company](https://www.lonestarbeer.com/), Fort Worth, TX with a *Miller Lite* chaser from [Miller Brewing Co.](https://www.millerlite.com/), Milwaukee, WI.
 
