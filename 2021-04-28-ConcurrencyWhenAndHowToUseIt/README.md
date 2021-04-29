@@ -7,7 +7,7 @@
 | **Where:** | VIRTUAL EVENT, Zoom/YouTube |
 | **Presenter:** | Jon Bodner, [@jonbodner](https://twitter.com/jonbodner) |
 | **Group Membership:** | 478 |
-| **Total RSVPs:** | 39 |
+| **Total RSVPs:** | 41 |
 | **Total Attendance:** | 19 |
 
 ## Presentation
