@@ -3,7 +3,7 @@
 ## Meta 
 | | |
 | --- | --- |
-| **When:** | Wednesday, May 26, 2021 |
+| **When:** | Wednesday, October 27, 2021 |
 | **Where:** | VIRTUAL EVENT, Zoom/YouTube |
 | **Presenter:** | Bartłomiej Klimczak, [@kabanek](https://twitter.com/kabanek) |
 | **Group Membership:** | 502 |
