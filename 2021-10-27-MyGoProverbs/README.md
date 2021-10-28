@@ -16,6 +16,8 @@ After almost five years of working with Go projects on the production, I noticed
 ## Resources
 [Meeting Intro](Meeting-Intro.pdf)
 
+We mentioned the mentoring platform video available at https://www.youtube.com/watch?v=nXJX2FyeMv0.
+
 ## What's Paul Drinking?
 *Miller Lite* from [Miller Brewing Co.](https://www.millerlite.com/), Milwaukee, WI.
 
@@ -26,9 +28,12 @@ https://youtu.be/LE1UfpA48zY
 
 18:58:19 From Bartek Klimczak to Everyone:
 	https://medium.com/@_orcaman/when-too-much-concurrency-slows-you-down-golang-9c144ca305a
+
 19:14:51 From Jerrod Early to Everyone:
 	this was great, practical advice for trying to be idiomatic in your coding :)  (I love the go mantra of idiomatic code)
+
 19:16:05 From zach to Everyone:
 	was a good talk
+
 19:19:45 From zach to Everyone:
 	thank you!
