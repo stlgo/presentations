@@ -21,6 +21,7 @@ Currently a Data Engineer at Weave in Lehi, Utah, Miriah focuses on scaling data
 ## Resources
 * [Meeting Intro](Meeting-Intro.pdf)
 * [Chat Transcript](chat-transcript.txt)
+* [Presenter Slides](https://github.com/Soypete/talks/tree/master/go-run-gcp)
 
 ## What's Paul Drinking?
 *Blackberry Weiss* from [Missouri Beer Company](https://mobeerco.com/), O'Fallon, MO, poured from a killer [Mini Keg Growler](https://www.amazon.com/dp/B08ZMN9H92?psc=1&ref=ppx_yo2_dt_b_product_details).
