@@ -8,7 +8,7 @@
 | **Presenter:** | Miriah Peterson, [@captainnobody1](https://twitter.com/captainnobody1) |
 | **Group Membership:** | 511 |
 | **Total RSVPs:** | 19 |
-| **Total Attendance:** | 6 |
+| **Total Attendance:** | 7 |
 
 > Happy 12th birthday to the Go language!!!
 
