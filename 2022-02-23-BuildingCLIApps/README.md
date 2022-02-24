@@ -18,10 +18,17 @@ Chamod Shehanka Perera is a Software Engineer at WSO2 and he is an open source e
 
 ## Resources
 * [Meeting Intro](Meeting-Intro.pdf)
-* [[Presenter Slides]]
+* [Presenter Slides](Building\%20CLI\%20Apps\%20with\%20Golang-2.pdf)
 
 ## What's Paul Drinking?
 *Boulevard Tart Apple Radler* from [Boulevard Brewing Company](https://www.boulevard.com/), Kansas City, MO.
 
 ## Recording
 https://youtu.be/ez1j4a5dfxs
+
+## Action Shots
+|  |  |
+| --- | --- |
+| ![](images/20220223-01.jpg) | ![](images/20220223-01.png) |
+| ![](images/20220223-02.png) | ![](images/20220223-00.jpg) |
+| ![](images/20220223-02.jpg) | ![](images/20220223-03.jpg) |
