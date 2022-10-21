@@ -6,6 +6,7 @@ A repository for available slides, handouts, and other shared items things from 
 ## 2022
 
 * [2022-11-16](2022-11-16-FailureIsNotAnOption) Tom Wheeler, _Failure is Not an Option: Durable Code Execution with Temporal_
+* [2022-10-20](2022-10-20-DistributedLoadTests) (KCN-STL) Paul Balogh, _Running distributed load tests with k6_
 * [2022-04-27](2022-04-27-RealTimeDataApps) DeVaris Brown, _Building Real-Time Data Apps with Go and Turbine_
 * [2022-02-23](2022-02-23-BuildingCLIApps) Chamod Shehanka Perera, _Building CLI Apps with Golang_
 
