@@ -39,6 +39,17 @@ Please join us for this **in-person event** in Cortex! **_Please, be sure to RSV
 ## Resources
 * [Meeting Intro](Meeting-Intro.pdf)
 * [Presenter Slides](Running%20distributed%20tests%20with%20k6.pdf)
+* [Demo project](https://github.com/javaducky/demo-k6-operator)
+
+### From other k6 discussions...
+* [k6 Contract Testing example](https://github.com/grafana/k6-example-api-contract-validation) - a how-to for contract testing
+* [k6 Chaos](https://github.com/grafana/k6-chaos) - JS library using the [xk6-kubernetes](https://github.com/grafana/xk6-kubernetes) extension to "spice up" your life in Kubernetes by adding a little chaos
+
+### Other stuff overheard or used at the meeting
+* [k3d](https://k3d.io/) - Run a Kubernetes cluster within Docker
+* [k3s](https://k3s.io/) - *Lightweight* Kubernetes distribution
+* [k9s](https://k9scli.io/) - Terminal-based dashboard for inspecting Kube clusters
+* [OTel Unplugged @ KubeCon 2022](https://www.eventbrite.com/e/otel-unplugged-kubeconcloudnativecon-detroit-2022-tickets-427595037267) - Extracurriculur event for KubeCon attendees
 
 ## Recording
 TBD
