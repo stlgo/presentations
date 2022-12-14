@@ -34,7 +34,7 @@ Please join us for this **in-person event** in Cortex! **_Please, be sure to RSV
 * **Meetup Fees** covered by [CNCF](https://www.cncf.io/).
 * **Facilities** provided by [Cambridge Innovation Center (CIC)](https://cic.com/). If signing up for coworking space, tell them _Paul Balogh_ sent you!
 * **Food** from [Fortels Pizza Den](https://www.fortelspizzaden.com/) provided by [Grafana Labs](https://grafana.com/).
-* **Giveaways** provided by [k6]https://k6.io/).
+* **Giveaways** provided by [k6](https://k6.io/).
 
 ## Resources
 * [Meeting Intro](Meeting-Intro.pdf)
