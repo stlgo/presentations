@@ -60,3 +60,6 @@ https://youtu.be/wv2jq8rS-mk
 | ![](images/20221020-01.jpg) | ![](images/20221020-02.jpg) |
 | ![](images/20221020-03.jpg) | ![](images/20221020-04.jpg) |
 | ![](images/20221020-05.jpg) | ![](images/20221020-06.jpg) |
+
+## Miscellaneous Credits
+* [Golang Stranger Things image in video](https://wallpaperaccess.com/golang)
