@@ -52,7 +52,7 @@ Please join us for this **in-person event** in Cortex! **_Please, be sure to RSV
 * [OTel Unplugged @ KubeCon 2022](https://www.eventbrite.com/e/otel-unplugged-kubeconcloudnativecon-detroit-2022-tickets-427595037267) - Extracurriculur event for KubeCon attendees
 
 ## Recording
-TBD
+https://youtu.be/wv2jq8rS-mk
 
 ## Action Shots
 |  |  |
