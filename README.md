@@ -3,6 +3,11 @@ A repository for available slides, handouts, and other shared items things from 
 
 # Event Calendar
 
+## 2023
+
+* [2023-03-16](2023-03-16-TraceBasedTestingWithTracetest) Paul Balogh, _Trace-based Testing with Tracetest_
+* [2023-01-19](2023-01-19-SeeInsideYourCloudWithOpenTelemetry) Jessica Kerr, _See Inside Your Cloud with OpenTelemetry_
+
 ## 2022
 
 * [2022-11-16](2022-11-16-FailureIsNotAnOption) Tom Wheeler, _Failure is Not an Option: Durable Code Execution with Temporal_
