@@ -16,6 +16,8 @@ Testing large systems with multiple microservices is hard to understand. You nee
 
 In this talk, we'll look at _trace-based testing_ using the open-source tool [Tracetest](https://tracetest.io/). This is becoming a popular method to test systems at an integration or end-to-end level by applying assertions against the data contained in an OpenTelemetry trace. These tests can check your code, they can verify your trace info is added correctly and can verify processes that show up deep in the trace worked as expected.
 
+Paul will demonstrate how [Tracetest](https://tracetest.io/) (part of the CNCF landscape) can be used to verify complex systems using the trace data provided by your observability platform. Join us as we learn more about this powerful new tool.
+
 ## Presenter
 [Paul Balogh](https://www.linkedin.com/in/pabalogh/) works at Grafana Labs as a Developer Advocate and is a GoBridge Ambassador working with the Go Developer Network (GDN) and Speaker Support.
 
@@ -38,4 +40,4 @@ Please join us for this **in-person event** in Cortex! **_Please, be sure to RSV
 * ???
 
 ## Recording
-???
+https://www.youtube.com/watch?v=EU-M75ZejHY
