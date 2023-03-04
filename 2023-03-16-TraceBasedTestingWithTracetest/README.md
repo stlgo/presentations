@@ -12,7 +12,9 @@
 | **Total Attendance:** | ??? |
 
 ## Presentation
-TODO
+Testing large systems with multiple microservices is hard to understand. You need to understand the whole system, all connections, and how the microservices interconnect. With tracing, you get a map of everything, making your whole system easier to understand. Now imagine being able to make assertions based upon those connections between services.
+
+In this talk, we'll look at _trace-based testing_ using the open-source tool [Tracetest](https://tracetest.io/). This is becoming a popular method to test systems at an integration or end-to-end level by applying assertions against the data contained in an OpenTelemetry trace. These tests can check your code, they can verify your trace info is added correctly and can verify processes that show up deep in the trace worked as expected.
 
 ## Presenter
 [Paul Balogh](https://www.linkedin.com/in/pabalogh/) works at Grafana Labs as a Developer Advocate and is a GoBridge Ambassador working with the Go Developer Network (GDN) and Speaker Support.
@@ -30,6 +32,7 @@ Please join us for this **in-person event** in Cortex! **_Please, be sure to RSV
 * **Meetup Fees** covered by [CNCF](https://www.cncf.io/).
 * **Location Fees** covered by [Grafana Labs](https://grafana.com/). If signing up for coworking space, tell them _Paul Balogh_ sent you so we can get discounts!
 * **Food** from ??? provided by [Grafana Labs](https://grafana.com/).
+* **Giveaways** provided by [Tracetest.io](https://tracetest.io/).
 
 ## Resources
 * ???
