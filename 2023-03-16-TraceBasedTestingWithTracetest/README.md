@@ -7,9 +7,9 @@
 | **Where:** | [Cambridge Innovation Center (CIC)](https://cic.com/), 4220 Duncan Ave - St. Louis, MO 63110 |
 | **Presenter:** | Paul Balogh, [@javaducky](https://twitter.com/javaducky) |
 | **Hosting Group:** | Kubernetes &amp; Cloud Native STL |
-| **Group Membership:** | ??? |
-| **Total RSVPs:** | ??? |
-| **Total Attendance:** | ??? |
+| **Group Membership:** | 451 |
+| **Total RSVPs:** | 11 |
+| **Total Attendance:** | 4 |
 
 ## Presentation
 Testing large systems with multiple microservices is hard to understand. You need to understand the whole system, all connections, and how the microservices interconnect. With tracing, you get a map of everything, making your whole system easier to understand. Now imagine being able to make assertions based upon those connections between services.
@@ -33,11 +33,13 @@ Please join us for this **in-person event** in Cortex! **_Please, be sure to RSV
 ## Sponsors
 * **Meetup Fees** covered by [CNCF](https://www.cncf.io/).
 * **Location Fees** covered by [Grafana Labs](https://grafana.com/). If signing up for coworking space, tell them _Paul Balogh_ sent you so we can get discounts!
-* **Food** from ??? provided by [Grafana Labs](https://grafana.com/).
+* **Food** from [Fortels Pizza Den](https://www.fortelspizzaden.com/) provided by [Grafana Labs](https://grafana.com/).
 * **Giveaways** provided by [Tracetest.io](https://tracetest.io/).
 
 ## Resources
-* ???
+* [Meeting Intro](Meeting-Intro.pdf)
+* [Presenter Slides](Trace-based%20Testing%20with%20Tracetest.pdf)
+* [Demo project](https://github.com/javaducky/demo-xk6-tracetest)
 
 ## Recording
 https://www.youtube.com/watch?v=EU-M75ZejHY
