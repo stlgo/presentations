@@ -34,3 +34,4 @@ Please join us for this **in-person event** in Cortex! **_Please, be sure to RSV
 TODO 
 
 ## Recording
+https://youtube.com/live/2uf-iz-jpnA
