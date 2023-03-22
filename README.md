@@ -5,6 +5,7 @@ A repository for available slides, handouts, and other shared items things from 
 
 ## 2023
 
+* [2023-04-26](2023-04-26-IntroToWebScraping) Nathan Nutter, _Intro to Web Scraping in Go_
 * [2023-04-18](2023-04-18-ReliabilityPipelinesWithKeptn) (KCN-STL) Paul Balogh, _Creating Reliability Pipelines With Keptn Quality Gates_
 * [2023-03-16](2023-03-16-TraceBasedTestingWithTracetest) (KCN-STL) Paul Balogh, _Trace-based Testing with Tracetest_
 * [2023-01-19](2023-01-19-SeeInsideYourCloudWithOpenTelemetry) (KCN-STL) Jessica Kerr, _See Inside Your Cloud with OpenTelemetry_
