@@ -7,9 +7,9 @@
 | **Where:** | [Cambridge Innovation Center (CIC)](https://cic.com/), 4220 Duncan Ave - St. Louis, MO 63110 |
 | **Presenter:** | Nathan Nutter |
 | **Hosting Group:** | StLGo |
-| **Group Membership:** | ??? |
-| **Total RSVPs:** | ??? |
-| **Total Attendance:** | ??? |
+| **Group Membership:** | 643 |
+| **Total RSVPs:** | 14 |
+| **Total Attendance:** | 11 |
 
 ## Presentation
 An introduction to the fundamentals of web scraping in Go from minimal HTML parsing up to driving a browser using [Rod](https://github.com/go-rod/rod).
@@ -28,10 +28,17 @@ Please join us for this **in-person event** in Cortex! **_Please, be sure to RSV
 ## Sponsors
 * **Meetup Fees** covered by [GoBridge](https://github.com/gobridge/).
 * **Location Fees** covered by [Grafana Labs](https://grafana.com/). If signing up for coworking space, tell them _Paul Balogh_ sent you so we can get discounts!
-* **Food** from ??? provided by [Grafana Labs](https://grafana.com/).
+* **Food** from [Pizza Hut](https://www.pizzahut.com/) provided by [Grafana Labs](https://grafana.com/).
 
 ## Resources
-TODO 
+* [Meeting Intro](Meeting-Intro.pdf)
+* [Presenter Slides](Intro%20to%20Web%20Scraping%20in%20Go.pdf)
+* [Demo Project](https://github.com/nnutter/intro-to-web-scraping-in-go)
 
 ## Recording
 https://youtube.com/live/2uf-iz-jpnA
+
+## Action Shots
+|  |  |
+| --- | --- |
+| ![](images/20230426-01.jpg) |  |
