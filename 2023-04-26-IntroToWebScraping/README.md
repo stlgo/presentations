@@ -29,6 +29,7 @@ Please join us for this **in-person event** in Cortex! **_Please, be sure to RSV
 * **Meetup Fees** covered by [GoBridge](https://github.com/gobridge/).
 * **Location Fees** covered by [Grafana Labs](https://grafana.com/). If signing up for coworking space, tell them _Paul Balogh_ sent you so we can get discounts!
 * **Food** from [Pizza Hut](https://www.pizzahut.com/) provided by [Grafana Labs](https://grafana.com/).
+* **Giveaways** provided by [Tracetest.io](https://tracetest.io/).
 
 ## Resources
 * [Meeting Intro](Meeting-Intro.pdf)
