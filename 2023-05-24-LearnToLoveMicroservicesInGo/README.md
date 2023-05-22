@@ -1,4 +1,4 @@
-# Creating Reliability Pipelines With Keptn Quality Gates
+# How I Stopped Worrying and Learned To Love Microservices in Golang
 
 ## Meta 
 | | |
@@ -36,3 +36,4 @@ Please join us for this **in-person event**! **_Please, be sure to RSVP so that 
 * [Presenter Slides](OTel%20Golang%20Meetup.pdf)
 
 ## Recording
+https://youtube.com/live/TekZGLmScdo
