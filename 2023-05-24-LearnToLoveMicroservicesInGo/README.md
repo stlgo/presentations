@@ -33,6 +33,7 @@ Please join us for this **in-person event**! **_Please, be sure to RSVP so that 
 * **Giveaways** ???
 
 ## Resources
+* [Meeting Intro](Meeting-Intro.pdf)
 * [Presenter Slides](OTel%20Golang%20Meetup.pdf)
 
 ## Recording
