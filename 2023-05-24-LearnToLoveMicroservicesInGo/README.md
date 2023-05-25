@@ -7,9 +7,11 @@
 | **Where:** | [Object Computing (OCI)](https://objectcomputing.com/), 12140 Woodcrest Executive Dr. Ste 310 - St. Louis, MO 63141 |
 | **Presenter:** | Vinod Vydien, [@vvydier](https://twitter.com/vvydier) |
 | **Hosting Group:** | StLGo |
-| **Group Membership:** | ??? |
-| **Total RSVPs:** | ??? |
-| **Total Attendance:** | ??? |
+| **Group Membership:** | 660 |
+| **Total RSVPs:** | 17 |
+| **Total Attendance:** | 13 |
+
+![](images/learned-to-love-go-microservices.png)
 
 ## Presentation
 Adding observability to Golang applications in a microservices environment is a challenge. This talk will introduce [OpenTelemetry](https://opentelemetry.io/), the [otel-go project](https://github.com/open-telemetry/opentelemetry-go), and how to add instrumentation to your Golang application in a Kubernetes or Cloud Native world. In short: How I stopped worrying and learned to love microservices in Golang ;)
@@ -29,8 +31,7 @@ Please join us for this **in-person event**! **_Please, be sure to RSVP so that 
 ## Sponsors
 * **Meetup Fees** covered by [GoBridge](https://gobridge.org/).
 * **Facilities** provided by [Object Computing (OCI)](https://objectcomputing.com/).
-* **Food** from ??? provided by [Grafana Labs](https://grafana.com/).
-* **Giveaways** ???
+* **Food** from [Jet's Pizza](https://www.jetspizza.com/) provided by [Grafana Labs](https://grafana.com/).
 
 ## Resources
 * [Meeting Intro](Meeting-Intro.pdf)
@@ -38,3 +39,9 @@ Please join us for this **in-person event**! **_Please, be sure to RSVP so that 
 
 ## Recording
 https://youtube.com/live/TekZGLmScdo
+
+## Action Shots
+|  |  |
+| --- | --- |
+| ![](images/20230525-01.jpg) | ![](images/20230525-02.jpg) |
+| ![](images/20230525-03.jpg) | ![](images/20230525-04.jpg) |
