@@ -12,6 +12,8 @@
 
 > Happy 12th birthday to the Go language!!!
 
+![](images/cover.png)
+
 ## Presentation
 Sometimes we need our apps to run via Cron style scheduling. In this talk we will explore using Cloud Run and docker images to run a cron style go app.
 

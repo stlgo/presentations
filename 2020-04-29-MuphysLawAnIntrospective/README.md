@@ -11,6 +11,8 @@ https://www.meetup.com/StL-Go/events/269773507/
 | **Total RSVPs:** | 47 |
 | **Total Attendance:** | 10 |
 
+![](images/cover.png)
+
 ## Presentation
 This was a last minute save for the previously scheduled "A Formal Look: Go Concurrency" by Sabree Blackmon.
 

@@ -11,6 +11,8 @@
 | **Total RSVPs:** | 13 |
 | **Total Attendance:** | 6 |
 
+![](images/distributed-load-tests-k6.png)
+
 ## Presentation
 Observability and CI/CD are must-haves in cloud-native environments. At their core, both are about enabling humans and machines to understand their code and workloads more deeply. Reliability testing should be part of CI/CD feeding into your observability stack, but until recently, there were mainly paid download or SaaS solutions on the market.
 

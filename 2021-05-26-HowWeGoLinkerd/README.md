@@ -10,6 +10,8 @@
 | **Total RSVPs:** | 12 |
 | **Total Attendance:** | 5 |
 
+![](images/cover.png)
+
 ## Presentation
 In 2017, the maintainers of the Linkerd service mesh decided to redesign Linkerd 2 with a focus on simplicity and performance. Go quickly made the short list of languages that were considered for the redesign and this talk focuses on the factors that resulted in selecting Go for the Linkerd control plane. We'll also look closely at how the Linkerd control plane uses the workqueue feature of the client-go package to efficiently handle events dispatched by Kubernetes.
 

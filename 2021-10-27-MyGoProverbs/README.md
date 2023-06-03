@@ -10,6 +10,8 @@
 | **Total RSVPs:** | 19 |
 | **Total Attendance:** | 6 |
 
+![](images/cover.png)
+
 ## Presentation
 After almost five years of working with Go projects on the production, I noticed some patterns that work while building business applications in Go. In the talk, I'll share with you my general guidance and good practices I was able to work out.
 

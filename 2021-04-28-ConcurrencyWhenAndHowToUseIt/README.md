@@ -10,6 +10,8 @@
 | **Total RSVPs:** | 41 |
 | **Total Attendance:** | 19 |
 
+![](images/cover.png)
+
 ## Presentation
 Concurrency is one of the signature features of Go, one of the things that even non-Go developers have heard about. However, just because Go makes it easy to launch concurrent processes, that doesn’t mean that it’s easy to use concurrency properly. In this talk, Jon Bodner covers the basics of concurrency, when to use it, and some of the patterns to follow when you need it. We’ll also take a quick look at mutexes, when they are appropriate, and their limitations.
 

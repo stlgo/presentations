@@ -11,6 +11,8 @@ https://www.meetup.com/StL-Go/events/272850932/
 | **Total RSVPs:** | 36 |
 | **Total Attendance:** | 17 |
 
+![](images/cover.png)
+
 ## Presentation
 Go can be a hyper-productive language to develop in, but like most languages, has it's bad and good parts. Just like what JavaScript: The Good Parts did for JavaScript and Effective Java did for Java, there are nuances/gotchas to navigate in Go. This session walks through a number of ways you can do it wrong with appropriate solutions.
 

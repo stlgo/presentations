@@ -10,6 +10,8 @@
 | **Total RSVPs:** | 52 |
 | **Total Attendance:** | 9 YouTube, 2 Twitch |
 
+![](images/commandline-apps-in-go.png)
+
 ## Presentation
 This talk will cover how to develop command-line applications in Go. Included will be a demo focusing on areas of Go’s CLI features. All CLI Ops tools (Re) Written in Go, Ops tools written in Go. During the demo, I am planning to build an application to show Golang CLI features.
 

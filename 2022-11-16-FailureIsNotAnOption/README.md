@@ -10,6 +10,8 @@
 | **Total RSVPs:** | StLGo: 9, KCN-STL: 14 |
 | **Total Attendance:** | 4 |
 
+![](images/failure-not-an-option.png)
+
 ## Presentation
 As applications move away from monolithic architectures, developers have increasingly become distributed systems engineers, though not all of them recognize it yet. The increased scalability and flexibility comes at the cost of reliability. Attempting to address the inherent challenges of distributed systems, developers often write code to deal with failures, timeouts, and retries, which distracts them from the core business logic and results in systems that are more complex and difficult to maintain. Temporal is an open source system that offers durable execution of your code, which removes the complexity from your applications while also ensuring they're reliable despite inevitable failures of the systems and infrastructure on which those applications depend.
 

@@ -11,6 +11,8 @@
 | **Total RSVPs:** | 14 |
 | **Total Attendance:** | 11 |
 
+![](images/intro-to-web-scraping.png)
+
 ## Presentation
 An introduction to the fundamentals of web scraping in Go from minimal HTML parsing up to driving a browser using [Rod](https://github.com/go-rod/rod).
 

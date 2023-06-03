@@ -11,6 +11,8 @@
 | **Total RSVPs:** | 14 |
 | **Total Attendance:** | 4 |
 
+![](images/reliability-pipelines-with-keptn.png)
+
 ## Presentation
 As software systems become more distributed and complex, the "shift-left" movement brings reliability testing to earlier stages of development. Load testing tools like JMeter, Gatling, and k6, among others, can no longer be considered optional in your CICD pipelines. By including more tools into your processes, you have the side-effect of complicating things even more...but it doesn't have to be so! 
 

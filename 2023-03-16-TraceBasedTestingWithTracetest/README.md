@@ -11,6 +11,8 @@
 | **Total RSVPs:** | 11 |
 | **Total Attendance:** | 4 |
 
+![](images/trace-based-testing-with-tracetest.png)
+
 ## Presentation
 Testing large systems with multiple microservices is hard to understand. You need to understand the whole system, all connections, and how the microservices interconnect. With tracing, you get a map of everything, making your whole system easier to understand. Now imagine being able to make assertions based upon those connections between services.
 

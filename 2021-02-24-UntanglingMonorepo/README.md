@@ -12,6 +12,8 @@ https://www.meetup.com/StL-Go/events/276220371/
 | **Total RSVPs:** | 22 |
 | **Total Attendance:** | 14 |
 
+![](images/cover.png)
+
 ## Presentation
 Do you have nearly 400 Go services and libraries tangled together in a Gordian knot of a monorepo? As an early adopter of Go, much of CrowdStrike’s codebase predates the concept of dependency management tools. With the release of Go Modules, many of the assumptions and patterns that have served us well need to be adjusted or discarded. Join Dylan Bourque and Anthony Lee as they detail their Herculean effort to retool the development experience for Go modules.
 

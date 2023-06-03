@@ -12,6 +12,8 @@ https://www.meetup.com/StL-Go/events/270424382/
 | **Total RSVPs:** | 37 |
 | **Total Attendance:** | 23 |
 
+![](images/cover.png)
+
 ## Presentation
 As Kubernetes becomes ubiquitous as the operating system for the data-center, organizations are extending the platform to build their own internal PaaS. This generally consists of creating new CustomResourceDefinitions (CRDs) and corresponding controllers to manage them. As a platform grows, it is common for different classes of resources to evolve. For instance, a platform may support provisioning different types of compute resources that each require their own CRD, but are reconciled in very similar ways. Writing new reconcilers with complex logic for every primitive in an infrastructure platform can be cumbersome and error-prone.
 

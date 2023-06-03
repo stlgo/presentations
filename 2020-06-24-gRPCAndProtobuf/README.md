@@ -11,6 +11,8 @@ https://www.meetup.com/StL-Go/events/270921500/
 | **Total RSVPs:** | 46 |
 | **Total Attendance:** | 22 |
 
+![](images/cover.png)
+
 ## Presentation
 gRPC is an incubating project within the Cloud Native Computing Foundation (CNCF). As described on the project website, "gRPC is a modern open source high performance RPC framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication."
 

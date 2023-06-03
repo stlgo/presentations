@@ -11,6 +11,8 @@
 | **Total RSVPs:** | 19 |
 | **Total Attendance:** | 10 |
 
+![](images/See%20Inside%20Your%20Cloud%20with%20OpenTelemetry.png)
+
 ## Presentation
 Ever look at production behavior and think, what is going on??
 

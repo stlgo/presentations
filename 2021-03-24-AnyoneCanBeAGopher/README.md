@@ -11,6 +11,8 @@ https://www.meetup.com/StL-Go/events/276465242/
 | **Total RSVPs:** | 31 |
 | **Total Attendance:** | ??? |
 
+![](images/cover.png)
+
 ## Presentation
 Anyone, even a British liberal arts major who once aspired to be an actress and then a journalist, can become a Gopher. This talk outlines my motivation, and struggles, to master coding and achieve Go competency during my first year working at The New York Times – with the help of several Go Gurus.
 

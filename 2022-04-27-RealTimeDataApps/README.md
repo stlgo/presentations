@@ -10,6 +10,8 @@
 | **Total RSVPs:** | 30 |
 | **Total Attendance:** | 3 YouTube, 2 Twitch |
 
+![](images/realtime-data-apps.png)
+
 ## Presentation
 Before Turbine, real-time data apps required expert knowledge in multiple systems(Kafka, Kafka Connect, Docker, Zookeeper, k8s, Airflow, Spark) and to stand up multiple environments for testing and production. Now with Turbine, you can create data apps with idiomatic Go without worrying about configuring and operating complex distributed systems.
 

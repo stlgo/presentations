@@ -12,6 +12,8 @@ https://www.meetup.com/StL-Go/events/272446868/
 | **Total RSVPs:** | 47 |
 | **Total Attendance:** | 22 |
 
+![](images/cover.png)
+
 ## Presentation
 With the release of the new draft proposal for generics, Go inches closer to having a version of generics in the language. It's important that the community as a whole agrees this new language feature "feels" like Go and will add value to the language and the applications we build.
 
