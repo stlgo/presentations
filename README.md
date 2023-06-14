@@ -5,6 +5,7 @@ A repository for available slides, handouts, and other shared items things from 
 
 ## 2023
 
+* [2023-06-13](2023-06-13-GrafanaConLocal) Paul Balogh, _GrafanaCON Local St. Louis_
 * [2023-05-24](2023-05-24-LearnToLoveMicroservicesInGo) Vinod Vydier, _How I stopped worrying and learned to love microservices in Golang_
 * [2023-05-18](2023-05-18-ReliabilityPipelinesWithKeptn) (KCN-STL) Paul Balogh, _Creating Reliability Pipelines With Keptn Quality Gates_
 * [2023-04-26](2023-04-26-IntroToWebScraping) Nathan Nutter, _Intro to Web Scraping in Go_
