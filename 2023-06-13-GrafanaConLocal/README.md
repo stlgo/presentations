@@ -36,3 +36,7 @@ The basic agenda follows:
 
 ## Recording
 https://www.youtube.com/watch?v=KxVAQNf8_ww
+
+## Bloopers
+* Paul used his laptop camera instead of the correct camera.
+* The demo presentation did not get shared into the livestream; you'll have to use your imagination as you listen.
