@@ -5,6 +5,7 @@ A repository for available slides, handouts, and other shared items things from 
 
 ## 2023
 
+* [2023-06-29](2023-06-29-StreamingIngestionIntoIceberg) (St. Louis Apache Kafka Meetup) Cliff Gilmore, _Streaming Ingestion into Apache Iceberg_
 * [2023-06-13](2023-06-13-GrafanaConLocal) (Grafana &amp; Friends) Paul Balogh, _GrafanaCON Local St. Louis_
 * [2023-05-24](2023-05-24-LearnToLoveMicroservicesInGo) Vinod Vydier, _How I stopped worrying and learned to love microservices in Golang_
 * [2023-05-18](2023-05-18-ReliabilityPipelinesWithKeptn) (KCN-STL) Paul Balogh, _Creating Reliability Pipelines With Keptn Quality Gates_
