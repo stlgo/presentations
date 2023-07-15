@@ -5,6 +5,7 @@ A repository for available slides, handouts, and other shared items things from 
 
 ## 2023
 
+* [2023-07-20](2023-07-20-OpenFeature) (KCN-STL) James Carr, _OpenFeature: Revolutionizing Feature Management_
 * [2023-06-29](2023-06-29-StreamingIngestionIntoIceberg) (St. Louis Apache Kafka Meetup) Cliff Gilmore, _Streaming Ingestion into Apache Iceberg_
 * [2023-06-13](2023-06-13-GrafanaConLocal) (Grafana &amp; Friends) Paul Balogh, _GrafanaCON Local St. Louis_
 * [2023-05-24](2023-05-24-LearnToLoveMicroservicesInGo) Vinod Vydier, _How I stopped worrying and learned to love microservices in Golang_
