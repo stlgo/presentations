@@ -5,6 +5,7 @@ A repository for available slides, handouts, and other shared items things from 
 
 ## 2023
 
+* [2023-08-03](2023-08-03-IfGoHadRails) Paul Balogh, _What if Go Had Rails?_
 * [2023-07-20](2023-07-20-OpenFeature) (KCN-STL) James Carr, _OpenFeature: Revolutionizing Feature Management_
 * [2023-06-29](2023-06-29-StreamingIngestionIntoIceberg) (St. Louis Apache Kafka Meetup) Cliff Gilmore, _Streaming Ingestion into Apache Iceberg_
 * [2023-06-13](2023-06-13-GrafanaConLocal) (Grafana &amp; Friends) Paul Balogh, _GrafanaCON Local St. Louis_
