@@ -9,9 +9,9 @@
 | **Where:** | [Object Computing (OCI)](https://objectcomputing.com/), 12140 Woodcrest Executive Dr. Ste 310 - St. Louis, MO 63141 |
 | **Presenter:** | Justin Garrison, [@rothgar](https://twitter.com/rothgar) |
 | **Hosting Group:** | Kubernetes &amp; Cloud Native STL |
-| **Group Membership:** | ??? |
-| **Total RSVPs:** | ??? |
-| **Total Attendance:** | ??? |
+| **Group Membership:** | 492 |
+| **Total RSVPs:** | 12 |
+| **Total Attendance:** | 5 |
 
 ## Presentation
 Kubernetes provides workload portability but what about your clusters? How much of the infrastructure can be reused in different environments? We’ll show examples for what it takes to build an on-prem Kubernetes environment and then build a production environment in AWS.
@@ -32,11 +32,21 @@ Please join us for this **in-person event**! **_Please, be sure to RSVP so that 
 ## Sponsors
 * **Meetup Fees** covered by [CNCF](https://www.cncf.io/).
 * **Facilities** provided by [Object Computing (OCI)](https://objectcomputing.com/).
-* **Food** from ??? provided by [CNCF](https://www.cncf.io/).
-* **Giveaways** provided by ???.
+* **Food** from [Jet's Pizza](https://www.jetspizza.com/) provided by [CNCF](https://WWW.cncf.io/).
+* **Giveaways** [k6](https://k6.io/) shirts and stickers provided by [Grafana Labs](https://grafana.com/).
 
 ## Resources
-???
+* [Meeting Intro](Meeting-Intro.pdf)
 
 ## Recording
 https://www.youtube.com/watch?v=XHjskSwQV6E
+
+## Action Shots
+|  |  |
+| --- | --- |
+| ![](images/20230920-01.jpg) | ![](images/20230920-02.jpg) |
+
+## Bloopers
+* Disaster averted thanks to [OCI](https://objectcomputing.com/) having extra meeting space; we double-booked ourselves when a [Kafka meetup](https://www.meetup.com/saint-louis-kafka-meetup-group/events/295507590/) was already scheduled there.
+* Paul's meeting kickoff and presentation were muted.
+* Justin's audio dropped during Q&A. 
