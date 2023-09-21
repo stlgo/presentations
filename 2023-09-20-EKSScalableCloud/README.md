@@ -13,6 +13,8 @@
 | **Total RSVPs:** | 12 |
 | **Total Attendance:** | 5 |
 
+![](images/on-prem-to-scalable-cloud.png)
+
 ## Presentation
 Kubernetes provides workload portability but what about your clusters? How much of the infrastructure can be reused in different environments? We’ll show examples for what it takes to build an on-prem Kubernetes environment and then build a production environment in AWS.
 
