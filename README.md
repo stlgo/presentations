@@ -5,6 +5,7 @@ A repository for available slides, handouts, and other shared items things from 
 
 ## 2023
 
+* [2023-11-15](2023-11-15-IntroToCrossplane) (KCN-STL) Steven Borrelli, _An Introduction to Crossplane_
 * [2023-09-20](2023-09-20-EKSScalableCloud) (KCN-STL) Justin Garrison, _EKS: Efficient On-Prem to Scalable Cloud_
 * [2023-07-20](2023-07-20-OpenFeature) (KCN-STL) James Carr, _OpenFeature: Revolutionizing Feature Management_
 * [2023-06-29](2023-06-29-StreamingIngestionIntoIceberg) (St. Louis Apache Kafka Meetup) Cliff Gilmore, _Streaming Ingestion into Apache Iceberg_
