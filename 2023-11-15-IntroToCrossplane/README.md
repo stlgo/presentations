@@ -9,9 +9,9 @@
 | **Where:** | [Object Computing (OCI)](https://objectcomputing.com/), 12140 Woodcrest Executive Dr. Ste 310 - St. Louis, MO 63141 |
 | **Presenter:** | Steven Borrelli, [@rothgar](https://twitter.com/rothgar) |
 | **Hosting Group:** | Kubernetes &amp; Cloud Native STL |
-| **Group Membership:** | ??? |
-| **Total RSVPs:** | ??? |
-| **Total Attendance:** | ??? |
+| **Group Membership:** | 498 |
+| **Total RSVPs:** | 14 |
+| **Total Attendance:** | 7 |
 
 ![](images/introduction-to-crossplane.png)
 
@@ -34,7 +34,15 @@ Please join us for this **in-person event**! **_Please, be sure to RSVP so that 
 ## Sponsors
 * **Meetup Fees** covered by [CNCF](https://www.cncf.io/).
 * **Facilities** provided by [Object Computing (OCI)](https://objectcomputing.com/).
-* **Food** from ??? provided by [CNCF](https://WWW.cncf.io/).
+* **Food** from [Jet's Pizza](https://www.jetspizza.com/) provided by [CNCF](https://WWW.cncf.io/).
+
+## Resources
+* [Meeting Intro](Meeting-Intro.pdf)
 
 ## Recording
 https://www.youtube.com/watch?v=s51nHnRCz6k
+
+## Action Shots
+|  |  |
+| --- | --- |
+| ![](images/20231115-01.jpg) | ![](images/20231115-02.jpg) |
