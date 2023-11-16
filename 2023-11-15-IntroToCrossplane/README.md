@@ -7,7 +7,7 @@
 | --- | --- |
 | **When:** | Wednesday, November 15, 2023 |
 | **Where:** | [Object Computing (OCI)](https://objectcomputing.com/), 12140 Woodcrest Executive Dr. Ste 310 - St. Louis, MO 63141 |
-| **Presenter:** | Steven Borrelli, [@rothgar](https://twitter.com/rothgar) |
+| **Presenter:** | Steven Borrelli, [@stevendborrelli](https://twitter.com/stevendborrelli) |
 | **Hosting Group:** | Kubernetes &amp; Cloud Native STL |
 | **Group Membership:** | 498 |
 | **Total RSVPs:** | 14 |
