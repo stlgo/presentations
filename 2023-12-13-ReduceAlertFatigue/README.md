@@ -10,9 +10,9 @@
 | **Where:** | [Object Computing (OCI)](https://objectcomputing.com/), 12140 Woodcrest Executive Dr. Ste 310 - St. Louis, MO 63141 |
 | **Presenter:** | John Richards II, [@JRastaban](https://twitter.com/JRastaban) |
 | **Hosting Group:** | Kubernetes &amp; Cloud Native STL |
-| **Group Membership:** | ??? |
-| **Total RSVPs:** | ??? |
-| **Total Attendance:** | ??? |
+| **Group Membership:** | 499 |
+| **Total RSVPs:** | 8 |
+| **Total Attendance:** | 3 |
 
 ![](images/reduce-security-alert-fatigue.png)
 
@@ -35,10 +35,10 @@ Please join us for this **in-person event**! **_Please, be sure to RSVP so that 
 ## Sponsors
 * **Meetup Fees** covered by [CNCF](https://www.cncf.io/).
 * **Facilities** provided by [Object Computing (OCI)](https://objectcomputing.com/).
-* **Food** from [???]() provided by [???]().
+* **Food** from [Jet's Pizza](https://www.jetspizza.com/) provided by [CNCF](https://WWW.cncf.io/).
 
 ## Resources
-TODO
+* [Meeting Intro](Meeting-Intro.pdf)
 
 ## Recording
-TODO
+https://www.youtube.com/watch?v=Bx_4D3Cx0kY
