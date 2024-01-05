@@ -3,6 +3,9 @@ A repository for available slides, handouts, and other shared items things from 
 
 # Event Calendar
 
+## 2024
+* [2024-01-10](2024-01-10-EmbracingDisruption) (KCN-STL) Paul Balogh, _Embracing Disruption: Adding a Bit of Chaos To Help You Grow_
+
 ## 2023
 
 * [2023-12-13](2023-12-13-ReduceAlertFatigue) (KCN-STL) John Richards II, _Reduce Security Alert Fatigue - Focus on What Matters_
