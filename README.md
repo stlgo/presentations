@@ -4,6 +4,7 @@ A repository for available slides, handouts, and other shared items things from 
 # Event Calendar
 
 ## 2024
+* [2024-01-24](2024-01-24-Testcontainers) Paul Balogh, _Creating Realistic Unit Tests with Testcontainers_
 * [2024-01-10](2024-01-10-EmbracingDisruption) (KCN-STL) Paul Balogh, _Embracing Disruption: Adding a Bit of Chaos To Help You Grow_
 
 ## 2023
