@@ -10,14 +10,14 @@
 | **Where:** | [Object Computing (OCI)](https://objectcomputing.com/), 12140 Woodcrest Executive Dr. Ste 310 - St. Louis, MO 63141 |
 | **Presenter:** | Paul Balogh, [@javaducky](https://twitter.com/javaducky) |
 | **Hosting Group:** | Kubernetes &amp; Cloud Native STL |
-| **Group Membership:** | ??? |
-| **Total RSVPs:** | ??? |
-| **Total Attendance:** | ??? |
+| **Group Membership:** | 504 (14 in Bevy) |
+| **Total RSVPs:** | 9 |
+| **Total Attendance:** | 4 |
 
 ![](images/embracing-disruption.png)
 
 ## Presentation
-Failure happens! It's our job to turn these disruptions into learning opportunities. As our software has become more distributed and complex, the "shift-left" movement brings reliability testing to earlier stages of development. Ensuring reliability goes beyond simple end-to-end tests. 
+Failure happens! It's our job to turn these disruptions into learning opportunities. As our software has become more distributed and complex, the "shift-left" movement brings reliability testing to earlier stages of development. Ensuring reliability goes beyond simple end-to-end tests.
 
 To ensure the highest levels of reliability, you must perform a suite of testing types. Incorporate contract tests to validate APIs; load tests for scaling predictability. Let's learn from Chaos Engineering principles by incorporating disruptive behavior into your system _before_ production. 
 
@@ -41,10 +41,12 @@ Please join us for this **in-person event**! **_Please, be sure to RSVP so that 
 ## Sponsors
 * **Meetup Fees** covered by [CNCF](https://www.cncf.io/).
 * **Facilities** provided by [Object Computing (OCI)](https://objectcomputing.com/).
-* **Food** from [???]() provided by [Grafana Labs](https://grafana.com/).
+* **Food** from [Jet's Pizza](https://www.jetspizza.com/) provided by [Grafana Labs](https://grafana.com/).
 
 ## Resources
-* [TODO Meeting Intro]()
+* [Meeting Intro](Meeting-Intro.pdf)
+* [Presenter Slides](Embracing%20Disruption-Adding%20a%20Bit%20of%20Chaos%20to%20Help%20You%20Grow.pdf)
+* [Demo Project](https://github.com/javaducky/demo-xk6-disruptor)
 
 ## Recording
 https://www.youtube.com/watch?v=sHNOjUtbq2s
