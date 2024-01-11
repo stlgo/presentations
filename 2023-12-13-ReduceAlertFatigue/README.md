@@ -10,7 +10,7 @@
 | **Where:** | [Object Computing (OCI)](https://objectcomputing.com/), 12140 Woodcrest Executive Dr. Ste 310 - St. Louis, MO 63141 |
 | **Presenter:** | John Richards II, [@JRastaban](https://twitter.com/JRastaban) |
 | **Hosting Group:** | Kubernetes &amp; Cloud Native STL |
-| **Group Membership:** | 499 |
+| **Group Membership:** | 499 (12 in Bevy) |
 | **Total RSVPs:** | 8 |
 | **Total Attendance:** | 3 |
 
