@@ -1,6 +1,8 @@
 # Creating Realistic Unit Tests with Testcontainers
 
 https://www.meetup.com/stl-go/events/298426035
+https://www.meetup.com/devcomo/events/298513725/
+
 
 ## Meta 
 | | |
@@ -9,9 +11,9 @@ https://www.meetup.com/stl-go/events/298426035
 | **Where:** | [Object Computing (OCI)](https://objectcomputing.com/), 12140 Woodcrest Executive Dr. Ste 310 - St. Louis, MO 63141 |
 | **Presenter:** | Paul Balogh, [@javaducky](https://twitter.com/javaducky) |
 | **Hosting Group:** | StLGo |
-| **Group Membership:** | ??? |
-| **Total RSVPs:** | ??? |
-| **Total Attendance:** | ??? |
+| **Group Membership:** | 693 |
+| **Total RSVPs:** | 16 |
+| **Total Attendance:** | 11 |
 
 ![](images/realistic-tests-with-testcontainers.png)
 
@@ -38,12 +40,12 @@ Please join us for this **in-person event**! **_Please be sure to RSVP so that w
 ## Sponsors
 * **Meetup Fees** covered by [GoBridge](https://github.com/gobridge/).
 * **Facilities** provided by [Object Computing (OCI)](https://objectcomputing.com/).
-* **Food** from [???]() provided by [Grafana Labs](https://grafana.com/).
+* **Food** from [Jet's Pizza](https://www.jetspizza.com/) provided by [Grafana Labs](https://grafana.com/).
 
 ## Resources
-* [TODO Meeting Intro]()
-* [TODO Presenter Slides]()
-* [TODO Demo Project]()
+* [TODO Meeting Intro](Meeting-Intro.pdf)
+* [TODO Presenter Slides](Creating%20Realistic%20Unit%20Tests%20with%20Testcontainers.pdf)
+* [TODO Demo Project](https://github.com/weesvc/weesvc-gorilla)
 
 ## Recording
 https://www.youtube.com/watch?v=sX4s1HqPZcw
