@@ -43,9 +43,9 @@ Please join us for this **in-person event**! **_Please be sure to RSVP so that w
 * **Food** from [Jet's Pizza](https://www.jetspizza.com/) provided by [Grafana Labs](https://grafana.com/).
 
 ## Resources
-* [TODO Meeting Intro](Meeting-Intro.pdf)
-* [TODO Presenter Slides](Creating%20Realistic%20Unit%20Tests%20with%20Testcontainers.pdf)
-* [TODO Demo Project](https://github.com/weesvc/weesvc-gorilla)
+* [Meeting Intro](Meeting-Intro.pdf)
+* [Presenter Slides](Creating%20Realistic%20Unit%20Tests%20with%20Testcontainers.pdf)
+* [Demo Project](https://github.com/weesvc/weesvc-gorilla)
 
 ## Recording
 https://www.youtube.com/watch?v=sX4s1HqPZcw
