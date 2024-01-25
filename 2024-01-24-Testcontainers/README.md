@@ -11,7 +11,7 @@ https://www.meetup.com/devcomo/events/298513725/
 | **Where:** | [Object Computing (OCI)](https://objectcomputing.com/), 12140 Woodcrest Executive Dr. Ste 310 - St. Louis, MO 63141 |
 | **Presenter:** | Paul Balogh, [@javaducky](https://twitter.com/javaducky) |
 | **Hosting Group:** | StLGo |
-| **Group Membership:** | 693 |
+| **Group Membership:** | 694 |
 | **Total RSVPs:** | 16 |
 | **Total Attendance:** | 11 |
 
