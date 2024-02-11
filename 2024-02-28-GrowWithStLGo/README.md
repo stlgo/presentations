@@ -2,7 +2,6 @@
 
 https://www.meetup.com/stl-go/events/299123667
 
-
 ## Meta 
 | | |
 | --- | --- |
@@ -29,12 +28,14 @@ When not toiling away the hours in the underground digital salt mines you can of
 ## Event
 The basic agenda follows:
 * 5:30 - 6:00 Food and networking (Go excels at networking)
-* 6:00 - 6:10 Announcements, intros, and so forth
+* 6:00 - 6:10 **LIVESTREAM** begins with announcements, intros, etc.
 * 6:15 - 7:00 Main presentation of the month
 * 7:00 - 7:30 Q&A
 * 7:30 - 8:00 Hang out and network
 
 Please join us for this **in-person event**! **_Please be sure to RSVP so that we can plan the food appropriately._** We greatly appreciate your help as we try to ensure the safety and comfort of those attending.
+
+_We'd love to see you in person, but if you're unable to make it, our event will be [LIVESTREAMED](https://www.youtube.com/watch?v=fXm1xgUHMIY) on YouTube. Be sure to ask questions and interact with the rest of the group using the YouTube chat feature!_
 
 ## Sponsors
 * **Meetup Fees** covered by [GoBridge](https://github.com/gobridge/).
@@ -42,8 +43,9 @@ Please join us for this **in-person event**! **_Please be sure to RSVP so that w
 * **Food** from [???]() provided by [???]().
 
 ## Resources
-* [TODO Meeting Intro](Meeting-Intro.pdf)
+* [Meeting Intro](Meeting-Intro.pdf)
 * [Demo Project](https://github.com/stlgo/grow-with-stl-go)
 
 ## Recording
-TODO
+
+https://www.youtube.com/watch?v=fXm1xgUHMIY
