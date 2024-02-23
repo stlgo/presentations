@@ -27,7 +27,7 @@ When not toiling away the hours in the underground digital salt mines you can of
 
 ## Event
 The basic agenda follows:
-* 5:30 - 6:00 Food and networking (Go excels at networking)
+* 5:30 - 6:00 Food and networking
 * 6:00 - 6:10 **LIVESTREAM** begins with announcements, intros, etc.
 * 6:15 - 7:00 Main presentation of the month
 * 7:00 - 7:30 Q&A
@@ -40,7 +40,7 @@ _We'd love to see you in person, but if you're unable to make it, our event will
 ## Sponsors
 * **Meetup Fees** covered by [GoBridge](https://github.com/gobridge/).
 * **Facilities** provided by [Object Computing (OCI)](https://objectcomputing.com/).
-* **Food** from [???]() provided by [???]().
+* **Food** from [???]() provided by [CloudGnome](https://cloudgnome.dev/).
 
 ## Resources
 * [Meeting Intro](Meeting-Intro.pdf)
