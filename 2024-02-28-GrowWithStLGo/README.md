@@ -9,9 +9,9 @@ https://www.meetup.com/stl-go/events/299123667
 | **Where:** | [Object Computing (OCI)](https://objectcomputing.com/), 12140 Woodcrest Executive Dr. Ste 310 - St. Louis, MO 63141 |
 | **Presenter:** | Andy Schiefelbein |
 | **Hosting Group:** | StLGo |
-| **Group Membership:** | ??? |
-| **Total RSVPs:** | ??? |
-| **Total Attendance:** | ??? |
+| **Group Membership:** | 705 |
+| **Total RSVPs:** | 19 |
+| **Total Attendance:** | 10 |
 
 ![](images/grow-with-stl-go.png)
 
@@ -40,12 +40,20 @@ _We'd love to see you in person, but if you're unable to make it, our event will
 ## Sponsors
 * **Meetup Fees** covered by [GoBridge](https://github.com/gobridge/).
 * **Facilities** provided by [Object Computing (OCI)](https://objectcomputing.com/).
-* **Food** from [???]() provided by [CloudGnome](https://cloudgnome.dev/).
+* **Food** from [Jet's Pizza](https://www.jetspizza.com/) provided by [CloudGnome](https://cloudgnome.dev/).
 
 ## Resources
 * [Meeting Intro](Meeting-Intro.pdf)
 * [Demo Project](https://github.com/stlgo/grow-with-stl-go)
 
 ## Recording
-
 https://www.youtube.com/watch?v=fXm1xgUHMIY
+
+## Action Shots
+|  |  |
+| --- | --- |
+| ![](images/20240228-01.jpg) | ![](images/20240228-02.jpg) |
+| ![](images/20240228-03.jpg) | ![](images/20240228-04.jpg) |
+
+## Giveaways
+Congratulations to our winner, Kevin Fultz, of the [Ultimate Go Bundle](https://www.ardanlabs.com/training/individual-on-demand/ultimate-go-bundle/) graciously provided by [Ardan Labs](https://www.ardanlabs.com/)!
