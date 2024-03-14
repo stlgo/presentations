@@ -10,9 +10,9 @@
 | **Where:** | [Object Computing (OCI)](https://objectcomputing.com/), 12140 Woodcrest Executive Dr. Ste 310 - St. Louis, MO 63141 |
 | **Presenter:** | Vinod Vydien, [@vvydier](https://twitter.com/vvydier) |
 | **Hosting Group:** | Kubernetes &amp; Cloud Native STL |
-| **Group Membership:** | ??? (??? in Bevy) |
-| **Total RSVPs:** | ??? |
-| **Total Attendance:** | ??? |
+| **Group Membership:** | 506 (25 in Bevy) |
+| **Total RSVPs:** | 18 |
+| **Total Attendance:** | 10 |
 
 ![](images/keda-is-kube-plus.png)
 
@@ -44,10 +44,17 @@ Please join us for this **in-person event**! **_Please, be sure to RSVP so that 
 ## Sponsors
 * **Meetup Fees** covered by [CNCF](https://cncf.io/).
 * **Facilities** provided by [Object Computing (OCI)](https://objectcomputing.com/).
-* **Food** from [???]() provided by [CNCF](https://cncf.io/).
+* **Food** from [Jet's Pizza](https://www.jetspizza.com/) provided by [CNCF](https://cncf.io/).
 
 ## Resources
-* [TOD Meeting Intro]()
+* [Meeting Intro](Meeting-Intro.pdf)
 
 ## Recording
-TODO
+
+https://www.youtube.com/watch?v=Yg6llTbRvyY
+
+## Action Shots
+|  |  |
+| --- | --- |
+| ![](images/20240313-01.jpg) | ![](images/20240313-02.jpg) |
+| ![](images/20240313-03.jpg) | ![](images/20240313-04.jpg) |
