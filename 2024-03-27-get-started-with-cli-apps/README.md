@@ -18,7 +18,7 @@ https://www.meetup.com/stl-go/events/299994415
 ## Presentation
 As developers, we often have our first introduction to a language by completing a "Hello World" tutorial. Often, this is a simplified example of a command-line application.
 
-Let's dig deeper into creating a command-line application you can actual use. We'll see just how easy it is to convert brittle shell scripts to create a powerful, user-friendly tool. We'll include an overview of awesome libraries like Cobra, Viper, Pflag, among others, comparing them to functionality provided by the Go standard library.
+Let's dig deeper into creating a command-line application you can actually use. We'll see just how easy it is to convert brittle shell scripts to create a powerful, user-friendly tool. We'll include an overview of awesome libraries like Cobra, Viper, Pflag, among others, comparing them to functionality provided by the Go standard library.
 
 ## Presenter
 Paul is a CNCF Ambassador and GoBridge Volunteer working as a Software Architect with NISC. You may have caught him in the recent past, speaking at conferences as a Developer Advocate with Grafana Labs. He makes a habit of encouraging developers and testers alike to "shift left," bringing reliability testing earlier in the software development process.
