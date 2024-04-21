@@ -13,14 +13,16 @@ https://www.meetup.com/mo-reliability/events/299835062/
 ![](images/reliability-tests-all-the-way-down.png)
 
 ## Presentation
-The sophomore event of the MO Reliability Meetup will be held at the NISC office in Lake St Louis.
-
 Modern application development has become more complex with many potential points of failure. As desires for an Internal Developer Platform (IDP) grow within many organizations, let's review some of the tooling and processes available to ensure the reliability of our pipelines from planning to production. Afterward, let's collectively discuss ways we can bring these ideas back to experiment with.
 
 ## Presenter
 Paul is a CNCF Ambassador, GoBridge Ambassador, Software Architect, and Developer Advocate. In his many roles, he has encouraged developers and testers alike to "shift left," bringing reliability testing earlier in the software development process. He's been a software engineer/architect for over 25 years, programming in various languages and platforms. Working with the open source community around cloud technologies like k6, Kubernetes, and Kafka, among others, keeps him young, as do his interests in punk rock music and playing bass guitar.
 
 ## Event
+The sophomore event of the MO Reliability Meetup will be held at the NISC office in Lake St Louis.
+
+Our goal is to get people together who, care about software quality and reliability, no matter what your role is, we hope that you will learn something new every time we meet.
+
 The basic agenda follows:
 * 5:30 - 6:00 Food and networking
 * 6:00 - 6:15 Announcements, intros, and so forth
