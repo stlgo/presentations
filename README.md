@@ -5,6 +5,7 @@ A repository for available slides, handouts, and other shared items things from 
 
 ## 2024
 * [2024-04-24](2024-04-24-GrowWithStLGo-2) Andy Schiefelbein, _Grow with STL-GO: Creating Secure Applications with Go_
+* [2024-04-10](2024-04-10-reliability-all-the-way-down) (MO Reliability) Paul Balogh, _Reliability Tests All the Way Down_
 * [2024-03-13](2024-03-13-keda-is-kube-plus) (KCN-STL) Vinod Vydier, _KEDA is Kubernetes++_
 * [2024-02-28](2024-02-28-GrowWithStLGo) Andy Schiefelbein, _Grow with STL-GO: Getting started with Go_
 * [2024-01-24](2024-01-24-Testcontainers) Paul Balogh, _Creating Realistic Unit Tests with Testcontainers_
