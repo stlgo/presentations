@@ -33,5 +33,9 @@ The basic agenda follows:
 * **Facilities** provided by [National Information Solutions Cooperative (NISC)](https://nisc.coop/).
 * **Food** from [Imo's Pizza](https://imospizza.com/) provided by [National Information Solutions Cooperative (NISC)](https://nisc.coop/).
 
+## Resources
+* [Meeting Intro](Meeting-Intro.pdf)
+* [Presenter Slides](reliability-tests-all-the-way-down.pdf)
+
 ## Recording
 https://www.youtube.com/watch?v=Jz1DXsynVGU
