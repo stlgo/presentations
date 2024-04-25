@@ -1,6 +1,6 @@
 # Creating Secure Applications with Go
 
-https://www.meetup.com/stl-go/events/299123667
+https://www.meetup.com/stl-go/events/300463336/
 
 ## Meta 
 | | |
