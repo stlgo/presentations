@@ -4,6 +4,7 @@ A repository for available slides, handouts, and other shared items things from 
 # Event Calendar
 
 ## 2024
+* [2024-05-22](2024-05-22-building-web-apps) Paul Balogh, _Building Web Apps Using Go_
 * [2024-04-24](2024-04-24-GrowWithStLGo-2) Andy Schiefelbein, _Grow with STL-GO: Creating Secure Applications with Go_
 * [2024-04-10](2024-04-10-reliability-all-the-way-down) (MO Reliability) Paul Balogh, _Reliability Tests All the Way Down_
 * [2024-03-13](2024-03-13-keda-is-kube-plus) (KCN-STL) Vinod Vydier, _KEDA is Kubernetes++_
