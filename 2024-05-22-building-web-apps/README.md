@@ -22,6 +22,11 @@ Paul's perspective as a traditional back-end developer, well-versed in crafting 
 
 Whether you're a newcomer to Go or aspiring to delve into web application development using _our favorite language_, this session promises to be both enlightening and practical. Don't miss out on learning and taking your Go development skills to the next level!
 
+Highlighted projects include:
+* [Air](https://github.com/cosmtrek/air) - Live reloading
+* [Templ](https://templ.guide) - HTML templating
+* [HTMX](https://htmx.org/) - Dynamic page updating with minimal JS
+
 ## Presenter
 Paul is a CNCF Ambassador, GoBridge Ambassador, Software Architect, and Developer Advocate. In his many roles, he has encouraged developers and testers alike to "shift left," bringing reliability testing earlier in the software development process.
 
@@ -48,10 +53,6 @@ Of course, there were stickers, but several lucky in-person attendees also walke
 ## Resources
 * [Meeting Intro](Meeting-Intro.pdf)
 * [Presentation Slides](Building%20Web%20Apps%20Using%20Go.pdf)
-
-* [Air](https://github.com/cosmtrek/air) - Live reloading
-* [Templ](https://templ.guide) - HTML templating
-* [HTMX](https://htmx.org/) - Dynamic page updating with minimal JS
 
 ## Recording
 
