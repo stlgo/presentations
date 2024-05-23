@@ -41,7 +41,9 @@ _We'd love to see you in person, but if you're unable to make it, our event will
 * **Meetup Fees** covered by [GoBridge](https://github.com/gobridge/).
 * **Facilities** provided by [Object Computing (OCI)](https://objectcomputing.com/).
 * **Food** from [Domino's](https://www.dominos.com/) provided by [Sketch Development](https://www.sketchdev.io/).
-* **Giveaways** from [CNC]
+
+## Giveaways
+Of course, there were stickers, but several lucky in-person attendees also walked away with some sweet baseball caps from CNCF projects: [Prometheus](https://prometheus.io/), [Containerd](https://containerd.io/), [Argo](https://argoproj.github.io/cd/), and [Etcd](https://etcd.io/)! Thanks to the [Cloud Native Computing Foundation (CNCF)](https://cncf.io/) for providing the swag.
 
 ## Resources
 * [Meeting Intro](Meeting-Intro.pdf)
@@ -54,6 +56,3 @@ _We'd love to see you in person, but if you're unable to make it, our event will
 ## Recording
 
 https://www.youtube.com/watch?v=L1D9zJ-Yn9U
-
-## Giveaways
-Of course, there were stickers, but several lucky in-person attendees also walked away with some sweet baseball caps from CNCF projects: [Prometheus](https://prometheus.io/), [Containerd](https://containerd.io/), [Argo](https://argoproj.github.io/cd/), and [Etcd](https://etcd.io/)! Thanks to the [Cloud Native Computing Foundation (CNCF)](https://cncf.io/) for providing the swag.
