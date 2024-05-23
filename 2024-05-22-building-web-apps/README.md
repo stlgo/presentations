@@ -53,6 +53,7 @@ Of course, there were stickers, but several lucky in-person attendees also walke
 ## Resources
 * [Meeting Intro](Meeting-Intro.pdf)
 * [Presentation Slides](Building%20Web%20Apps%20Using%20Go.pdf)
+* [Demo Project](https://github.com/weesvc/weesvc-gorilla)
 
 ## Recording
 
