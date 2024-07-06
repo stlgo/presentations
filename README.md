@@ -4,6 +4,7 @@ A repository for available slides, handouts, and other shared items things from 
 # Event Calendar
 
 ## 2024
+* [2024-07-24](2024-07-24-VirtualWebHostingWithGo) Andy Schiefelbein, _Virtual Web Hosting with Native Go_
 * [2024-06-12](2024-06-12-kuberTENes) _KuberTENes Birthday Bash_
 * [2024-05-22](2024-05-22-building-web-apps) Paul Balogh, _Building Web Apps Using Go_
 * [2024-04-24](2024-04-24-GrowWithStLGo-2) Andy Schiefelbein, _Grow with STL-GO: Creating Secure Applications with Go_
