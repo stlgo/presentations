@@ -9,9 +9,9 @@ https://www.meetup.com/stl-go/events/302078973/
 | **Where:** | [Object Computing (OCI)](https://objectcomputing.com/), 12140 Woodcrest Executive Dr. Ste 310 - St. Louis, MO 63141 |
 | **Presenter:** | Andy Schiefelbein |
 | **Hosting Group:** | StLGo |
-| **Group Membership:** | ??? |
-| **Total RSVPs:** | ??? |
-| **Total Attendance:** | ??? |
+| **Group Membership:** | 737 |
+| **Total RSVPs:** | 13 |
+| **Total Attendance:** | 10 |
 
 ![](images/stlgo-meetup-virtual-web-hosting.png)
 
@@ -49,14 +49,20 @@ _We'd love to see you in person, but if you're unable to make it, our event will
 ## Sponsors
 * **Meetup Fees** covered by [GoBridge](https://github.com/gobridge/).
 * **Facilities** provided by [Object Computing (OCI)](https://objectcomputing.com/).
-* **Food** from [???]() provided by [Sketch Development](https://www.sketchdev.io/).
+* **Food** from [Jet's Pizza](https://www.jetspizza.com/) provided by [CloudGnome](https://cloudgnome.dev/).
 
 ## Giveaways
-Of course, there were stickers, but several lucky in-person attendees also walked away with some sweet baseball caps from CNCF projects: [Prometheus](https://prometheus.io/), [Containerd](https://containerd.io/), [Argo](https://argoproj.github.io/cd/), and [Etcd](https://etcd.io/)! Thanks to the [Cloud Native Computing Foundation (CNCF)](https://cncf.io/) for providing the swag.
+Of course, there were stickers, but several lucky in-person attendees also walked away with items from a mixed bag of baseball caps, t-shirts, pizza cutters, and sunglasses! Thanks to the [Cloud Native Computing Foundation (CNCF)](https://cncf.io/), [Bayer Crop Science](https://www.cropscience.bayer.us/), [NISC](https://nisc.coop/) for providing the swag.
 
 ## Resources
-* [TBD Meeting Intro](Meeting-Intro.pdf)
+* [Meeting Intro](Meeting-Intro.pdf)
+* [Demo Project](https://github.com/stlgo/grow-with-stl-go)
 
 ## Recording
 
-https://www.youtube.com/live/NrdioCQpU7E
+https://www.youtube.com/watch?v=NrdioCQpU7E
+
+## Action Shots
+|  |  |
+| --- | --- |
+| ![](images/20240724-01.jpg) | ![](images/20240724-02.jpg) |
