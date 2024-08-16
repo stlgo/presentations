@@ -4,6 +4,7 @@ A repository for available slides, handouts, and other shared items things from 
 # Event Calendar
 
 ## 2024
+* [2024-08-21](2024-08-21-mo-reliability-3) (MO Reliability) Larry F., _Developer Psychology_ and Péter Földházi, _Flow Model Pattern_
 * [2024-07-24](2024-07-24-VirtualWebHostingWithGo) Andy Schiefelbein, _Virtual Web Hosting with Native Go_
 * [2024-06-12](2024-06-12-kuberTENes) _KuberTENes Birthday Bash_
 * [2024-05-22](2024-05-22-building-web-apps) Paul Balogh, _Building Web Apps Using Go_
