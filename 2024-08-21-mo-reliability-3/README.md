@@ -52,4 +52,4 @@ The basic agenda follows:
 TODO
 
 ## Recording
-TODO
+https://www.youtube.com/watch?v=KY5mEpixnuw
