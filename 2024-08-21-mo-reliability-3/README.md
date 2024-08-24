@@ -8,9 +8,9 @@ https://www.meetup.com/mo-reliability/events/301833611/
 | **Where:** | [National Information Solutions Cooperative (NISC)](https://nisc.coop/), One Innovation Circle - Lake Saint Louis, MO 63367 |
 | **Presenter:** | Larry F., Péter Földházi |
 | **Hosting Group:** | MO Reliability |
-| **Group Membership:** | ??? |
-| **Total RSVPs:** | ??? |
-| **Total Attendance:** | ??? |
+| **Group Membership:** | 45 |
+| **Total RSVPs:** | 9 |
+| **Total Attendance:** | 6 |
 
 ![](images/mo-reliability-3.png)
 
@@ -46,10 +46,11 @@ The basic agenda follows:
 ## Sponsors
 * **Meetup Fees** covered by [GoBridge](https://github.com/gobridge/).
 * **Facilities** provided by [National Information Solutions Cooperative (NISC)](https://nisc.coop/).
-* **Food** from [???]() provided by [National Information Solutions Cooperative (NISC)](https://nisc.coop/).
+* **Food** from [Imo's Pizza](https://imospizza.com/) provided by [National Information Solutions Cooperative (NISC)](https://nisc.coop/).
 
 ## Resources
-TODO
+* [Meeting Intro](Meeting-Intro.pdf)
+* [Developer Psychology](Developer%20Psychology.pptx)
 
 ## Recording
 https://www.youtube.com/watch?v=KY5mEpixnuw
