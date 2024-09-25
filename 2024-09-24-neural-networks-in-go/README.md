@@ -9,9 +9,9 @@ https://www.meetup.com/stl-go/events/303415976
 | **Where:** | [Object Computing (OCI)](https://objectcomputing.com/), 12140 Woodcrest Executive Dr. Ste 310 - St. Louis, MO 63141 |
 | **Presenter:** | Vinod Vydier, [@vvydier](https://twitter.com/vvydier) |
 | **Hosting Group:** | StLGo |
-| **Group Membership:** | ??? |
-| **Total RSVPs:** | ??? |
-| **Total Attendance:** | ??? |
+| **Group Membership:** | 749 |
+| **Total RSVPs:** | 13 |
+| **Total Attendance:** | 10 |
 
 ![](images/stlgo-meetup-neural-networks.png)
 
@@ -36,10 +36,11 @@ Please join us for this **in-person event**! **_Please be sure to RSVP so that w
 ## Sponsors
 * **Meetup Fees** covered by [GoBridge](https://github.com/gobridge/).
 * **Facilities** provided by [Object Computing (OCI)](https://objectcomputing.com/).
-* **Food** from [???]() provided by [???]().
+* **Food** from [Jet's Pizza](https://www.jetspizza.com/) provided by [you Meetup organizers]().
 
 ## Resources
 
+* [Meeting Intro](Meeting-Intro.pdf)
 
 ## Recording
 
