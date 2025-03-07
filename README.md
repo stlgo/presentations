@@ -3,6 +3,9 @@ A repository for available slides, handouts, and other shared items things from 
 
 # Event Calendar
 
+## 2025
+* [2025-03-26](2025-03-26-concurrency-made-easy) Ian Howell, _Concurrency Made Easy!_
+
 ## 2024
 * [2024-08-21](2024-08-21-mo-reliability-3) (MO Reliability) Larry F., _Developer Psychology_ and Péter Földházi, _Flow Model Pattern_
 * [2024-07-24](2024-07-24-VirtualWebHostingWithGo) Andy Schiefelbein, _Virtual Web Hosting with Native Go_
