@@ -4,6 +4,7 @@ A repository for available slides, handouts, and other shared items things from 
 # Event Calendar
 
 ## 2025
+* [2025-05-07](2025-05-07-cncf-overview) (CNCG-STL) Steve Palubiak, _CNCF Landscape and the Cloud Native Journey_
 * [2025-03-26](2025-03-26-concurrency-made-easy) Ian Howell, _Concurrency Made Easy!_
 
 ## 2024
