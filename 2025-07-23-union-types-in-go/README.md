@@ -11,7 +11,7 @@ https://www.meetup.com/stl-go/events/308835143
 | **Hosting Group:** | StLGo |
 | **Group Membership:** | 809 |
 | **Total RSVPs:** | 15 |
-| **Total Attendance:** | ??? |
+| **Total Attendance:** | 13 |
 
 ![](images/stlgo-meetup-union-types-in-go.png)
 
@@ -36,7 +36,7 @@ Please join us for this **in-person event**! **_Please be sure to RSVP so that w
 ## Sponsors
 * **Meetup Fees** covered by [GoBridge](https://github.com/gobridge/).
 * **Facilities** provided by [Microsoft](https://microsoft.com/).
-* **Food** from [???]() provided by [Spectro Cloud](https://www.spectrocloud.com/).
+* **Food** from [Domino's Pizza](https://www.dominos.com/) provided by [Spectro Cloud](https://www.spectrocloud.com/).
 
 ## Resources
 
