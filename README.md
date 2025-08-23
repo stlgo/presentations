@@ -4,6 +4,7 @@ A repository for available slides, handouts, and other shared items things from 
 # Event Calendar
 
 ## 2025
+* [2025-09-24](2025-09-24-go-spatial) Kevin Lai, _Go-spatial: Geospatial Web Framework Service in Go_
 * [2025-07-23](2025-07-23-union-types-in-go) K. Matthew DuPree, _Generating Union Types from Go Structs with Static Analysis_
 * [2025-05-28](2025-05-28-no-web-frameworks) Scott Anderson, _NO FRAMEWORKS: Implement your web server with Go's standard library_
 * [2025-05-07](2025-05-07-cncf-overview) (CNCG-STL) Steve Palubiak, _CNCF Landscape and the Cloud Native Journey_
