@@ -44,7 +44,7 @@ Please join us for this **in-person event**! **_Please be sure to RSVP so that w
 
 ## Code for the Neural Network demo
 
-* [GoLang Neural Network code](https://github.com/vvydier/gonn) 
+* [Go Neural Network code](https://github.com/vvydier/gonn) 
 
 ## Recording
 
